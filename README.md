@@ -19,7 +19,7 @@ DogGram is a specialized social networking application designed exclusively for 
 [Firebase-icon]:https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
 
 [Xcode-url]:https://developer.apple.com/xcode/
-[Xcode-icon]https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
+[Xcode-icon]:https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
