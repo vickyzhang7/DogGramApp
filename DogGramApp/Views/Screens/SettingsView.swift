@@ -86,7 +86,7 @@ struct SettingsView: View {
                 
                 // MARK: SECTION 4: SIGN OFF
                 GroupBox {
-                    Text("DogGram was made with love. \n All Rights Reserved \n Cool Apps Inc. \n Copyright 2020 ♥️")
+                    Text("DogGram was made with love. \n All Rights Reserved \n Cool Apps Inc. \n Copyright 2023 ♥️")
                         .foregroundColor(.gray)
                         .multilineTextAlignment(.center)
                         .frame(maxWidth: .infinity)
