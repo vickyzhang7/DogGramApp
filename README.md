@@ -26,8 +26,8 @@ DogGram is a specialized social networking application designed exclusively for 
 
 **Frontend:**
 
-1. **SwiftUI for iOS 14 Development:**
-   - Over 15 screens crafted using SwiftUI 2.0, complete with custom animations.
+1. **SwiftUI for iOS 17 Development:**
+   - Over 15 screens crafted using SwiftUI 5.0, complete with custom animations.
    - Focus on a user-friendly interface for an engaging user experience.
 
 2. **Interactive User Interface Design:**
