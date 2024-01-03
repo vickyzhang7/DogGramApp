@@ -7,6 +7,7 @@
 DogGram is a specialized social networking application designed exclusively for sharing dog-related content. It's a comprehensive platform that allows users to post, like, comment, and share videos and photos of dogs. Built with Swift and integrated with Google Firebase Firestore, it offers a robust front-end and back-end structure.
 
 
+
 **Major frameworks and libraries**:
 
 
